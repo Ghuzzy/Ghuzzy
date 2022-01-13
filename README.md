@@ -23,7 +23,7 @@ Tools:
   <a href="https://www.instagram.com/qissu_samuel/" target="_blank"><img height="30px" src="https://img.icons8.com/material-outlined/24/4a90e2/instagram-new--v1.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/samuel-cabral-011895200/" target="_blank"><img height="30px" src="https://img.icons8.com/material-outlined/24/4a90e2/linkedin--v1.png" target="_blank"></a>
 
-## Estatísticas
+## Statistics
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghuzzy&theme=tokyonight&show_icons=true) [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghuzzy&layout=compact&theme=tokyonight&hide=Jupyter%Notebook)](https://github.com/iuricode/)
 
