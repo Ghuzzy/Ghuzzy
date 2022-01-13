@@ -19,7 +19,7 @@ Tools:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="atom" width="20"/>
 
-## Entra em contato!
+## Contact me!
   <a href="https://www.instagram.com/qissu_samuel/" target="_blank"><img height="30px" src="https://img.icons8.com/material-outlined/24/4a90e2/instagram-new--v1.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/samuel-cabral-011895200/" target="_blank"><img height="30px" src="https://img.icons8.com/material-outlined/24/4a90e2/linkedin--v1.png" target="_blank"></a>
 
