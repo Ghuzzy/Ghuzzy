@@ -25,6 +25,6 @@ Tools:
 
 ## Statistics
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghuzzy&theme=tokyonight&show_icons=true) [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghuzzy&layout=compact&theme=tokyonight&hide=Jupyter%Notebook)](https://github.com/iuricode/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghuzzy&theme=tokyonight&show_icons=true) [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghuzzy&layout=compact&theme=tokyonight)](https://github.com/iuricode/)
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
